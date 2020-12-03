@@ -1,0 +1,104 @@
+.header{
+    height: 150px;
+    
+    background-color: #2a9d8f;
+}
+.wrapper{
+    overflow: hidden;
+}
+.blog{
+    float: left;
+    height: 400px;
+    background-color: #f4a261;
+    width: 70%;
+}
+.contact{
+    float: right;
+    height: 400px;
+    background-color: tomato;
+    width: 30%;
+}
+.footer{
+    height: 150px;
+    background-color: #e5b3fe;
+    
+}
+
+.three{
+
+}
+.header1{
+    height: 150px;
+    background-color: #ef476f;
+}
+.blog1{
+    overflow: hidden;
+}
+.a{
+    float: left;
+    height: 400px;
+    background-color: #06d6a0;
+    width: 33%;
+}
+.b{
+    float: left;
+    height: 400px;
+    background-color: #118ab2;
+    width: 33%;
+}
+.c{
+    float: left;
+    height: 400px;
+    background-color: #073b4c;
+    width: 34%;
+}
+
+.footer1{
+    height: 150px;
+    background-color: #b5179e;
+    
+}
+
+.four{
+
+}
+.header2{
+    height: 150px;
+    
+    background-color: burlywood;
+}
+.blog2{
+    overflow: hidden;
+}
+.aa{
+    float: left;
+    height: 400px;
+    background-color: rgb(74, 15, 129);
+    width: 25%;
+}
+.bb{
+    float: left;
+    height: 400px;
+    background-color: rgb(196, 179, 28);
+    width: 25%;
+}
+.cc{
+    float: left;
+    height: 400px;
+    background-color: rgb(196, 135, 21);
+    width: 25%;
+}
+.dd{
+    float: left;
+    height: 400px;
+    background-color: rgb(223, 127, 18);
+    width: 25%;
+}
+.footer3{height: 150px;
+    background-color: rgb(71, 4, 66);
+}
+h1{
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
